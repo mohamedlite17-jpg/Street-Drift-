@@ -1,0 +1,6 @@
+{
+  "appId": "com.streetdrift.game",
+  "appName": "STREET DRIFT",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,1 @@
+Place final textures and the exported vehicle model here. The supplied New Project 15.obj upload is a project package rather than a standard OBJ mesh, so it is not wired into this first build. Export the car as .glb/.gltf to integrate it.
